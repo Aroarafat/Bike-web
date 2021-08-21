@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header-bg-color{
+    background-color: #264653;
+}
+.header-text-1{
+    color: white;
+    font-weight: 300;
+    font-size: 14px;
+}
+.header-text-2{
+    color: white;
+    font-weight: 600;
+    font-size: 48px;  
+}
+.header-text-3{
+    color: white ;
+    font-weight: 300;
+    font-size: 16px;
+}
+.header-button{
+    background-color:  #E76F51 ;
+    color: white;
+    width: 168px;
+    height: 44px;
+    border-radius: 10px;
+}
+.bike-text{
+    color: #E76F51;
+    font-size: 14px;
+}
+.none{
+    filter: grayscale(100%);
+}
+
+p a{
+    text-decoration: none;
+}
+.happy-text{
+    font-size: 48px;
+}
+.client-text{
+    color:#E76F51 ;
+    font-size: 48px;
+}
+.filled{
+    color: #E77C40;
+}
